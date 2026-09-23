@@ -1,10 +1,11 @@
 # M3U8 proxy
 
-A simple proxy server for M3U8 file written in go for high performance
+A simple [anime](https://mkissa.cc/)
+ api proxy server for M3U8 file written in go for high performance
 
 ### Running the server
 
-Redis is optional but can be used to cache the proxied data.
+Redis is optional but can be used to cache the proxied data [mkissa](https://mkissa.cc/) .
 
 copy the `.env.example` file to `.env`
 
